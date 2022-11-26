@@ -1,0 +1,9 @@
+while true do
+    wait(0.0000001)
+local args = {
+    [1] = workspace.OLDMAP.pleaseno:FindFirstChild("Training Dummy").Humanoid,
+    [3] = 0
+}
+
+game:GetService("ReplicatedStorage").jdskhfsIIIllliiIIIdchgdIiIIIlIlIli:FireServer(unpack(args))
+end
